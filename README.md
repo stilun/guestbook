@@ -1,3 +1,3 @@
-My first PHPMVC project.
-========================
-My first phpmvc project to download, if anyone want to do that.
+My guestbook project in Lydia.
+==============================
+My first guestbook project in Lydia to download, perhaps.
