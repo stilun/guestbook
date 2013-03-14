@@ -6,5 +6,5 @@
 */
 interface IHasSQL 
 {
-  public static function SQL($key=null);
+	public static function SQL($key=null);
 }
